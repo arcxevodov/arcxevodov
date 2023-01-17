@@ -1,7 +1,7 @@
 <div align="center">
-    <p><img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" alt="Gopher">
-        <img src="https://streak-stats.demolab.com?user=arcxevodov&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
-        <img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" alt="Gopher">
+    <p><img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" alt="Gopher" width="150">
+        <img src="https://streak-stats.demolab.com?user=arcxevodov&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="400">
+        <img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" alt="Gopher" width="150">
     </p>
 </div>
 <div align="center">
