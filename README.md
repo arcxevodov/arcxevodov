@@ -7,4 +7,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arcxevodov&theme=android-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,git,php,linux,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,git,php,laravel,linux&theme=light)
