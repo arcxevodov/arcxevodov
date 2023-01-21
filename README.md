@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Chat?style=for-the-badge&color=black&logo=telegram&logoColor=white)](https://t.me/archevodov)
 [![Habr](https://img.shields.io/badge/Habr-00345c?style=for-the-badge&color=black&logo=habr&logoColor=white)](https://habr.com/ru/users/archevodov)
 
-[![Top Langs](https://github-readme-stats-arcxevodov.vercel.app/api/top-langs/?username=arcxevodov&layout=compact&bg_color=000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-arcxevodov.vercel.app/api/top-langs/?username=arcxevodov&bg_color=000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arcxevodov&theme=android-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
